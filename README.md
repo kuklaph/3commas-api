@@ -1,4 +1,4 @@
-# 3Commas_Nodejs_Library
+# 3Commas API Library - For Nodejs
 Nodejs 3Commas Library
 
 This is a personal 3Commas Library I created to help expedite connecting and interacting with the 3Commas trading platform. At the time of creation it contains the most up to date endpoints, but by the time you see it it may not be up to date as 3Commas periodically updates their API.
